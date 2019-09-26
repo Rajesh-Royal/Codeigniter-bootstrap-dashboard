@@ -1,4 +1,12 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Application Starter Admin Dashboard with bootstrap
+
+##Steps -  
+
+### Download the project into a folder or you can use $git to copy the project direct.
+### Go to the project root and open Command Window here
+### run `php spark serve`
+### open `http://localhost:8080/pages/showme` or `http://localhost:8080/home/showme`
+
 
 ## What is CodeIgniter?
 
